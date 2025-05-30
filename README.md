@@ -6,7 +6,7 @@
   <tr>
     <td>
       <ul>
-        <li>🎓 I'm currently taking my BS Information Technology in The University of The Cordilleras. </li>
+        <li>🎓 I'm currently taking my BS Information Technology Degree in The University of The Cordilleras. </li>
         <li> 📱 Currently working on Capstone Project. </li>
       </ul>
     </td>
